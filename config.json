@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productstringify",
+        "uuid": 8270823,
+        "checksum": "pd66yt"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
